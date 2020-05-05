@@ -11,7 +11,7 @@
 
 # 主要技术（详见[我的csdn博客](https://blog.csdn.net/qq_39751437)）
 
-- Http请求动态请求解析技术Cgi
+- 动态请求解析技术Cgi
 
 + Reactor模式
 
@@ -20,6 +20,12 @@
 - 线程池
 
 - Socket网络编程相关知识
+
+- http报文格式
+
+- http请求命令get/post
+
++ 进程通信（管道pipe）
 
 # 注意事项
 
