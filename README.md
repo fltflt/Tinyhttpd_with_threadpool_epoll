@@ -9,7 +9,7 @@
 3. make
 4. ./httpd
 
-# 主要技术（详见[我的csdn博客](https://blog.csdn.net/qq_39751437)）
+# 主要技术（详见[我的csdn博客](https://blog.csdn.net/qq_39751437/article/details/105265301)）
 
 - 动态请求解析技术Cgi
 
